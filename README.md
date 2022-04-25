@@ -6,6 +6,7 @@ For greetings in English please scroll down this section.
 - 💞️ С удовольствием присоединюсь в качестве Джуна к команде, разрабатывающей интересный проект. От меня - быстрое изучение той части используемого вами стека, которой я еще на знаю, от вас - возможность развиваться.
 - 📫 Для связи со мной используйте Telegram: @LuAi_LuAi
 
+=====
 - 👋 Hi, my name is Stanislav (@Stats-M)
 - 👀 I’m a computer enthusiast with self-education (mostly) in C++, C#, Pascal and Visul Basic (from most current to most ancient ones). Additionally I have learnt at some degree HTML, CSS, SQL, Fortran95, Lua to achieve side targets in the past.
 - 🌱 I currently undertake "C++ for experienced programmers" learning course at Yandex.Practicum to make a solid step from C# to a more powerful language. Additionally, C++ is used in UEngine which I have some plans for. 
