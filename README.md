@@ -8,7 +8,7 @@ For greetings in English please scroll down this section.
 
 =====
 - 👋 Hi, my name is Stanislav (@Stats-M)
-- 👀 I graduated from BSTU with Master of Engineering degree, PhD ex-student and a computer enthusiast with self-education (mostly, but not limited to) in C++, C#, C, Visul Basic and Pascal (from most current to most ancient ones). Additionally I have learnt at some degree HTML, CSS, SQL, PHP, Java (Android apps), Fortran95, Lua to achieve side targets in the past.
+- 👀 I'm Master of Engineering degree (graduated from BSTU), PhD ex-student and a computer enthusiast with self-education (mostly, but not limited to) in C++, C#, C, Visul Basic and Pascal (from most current to most ancient ones). Additionally I have learnt at some degree HTML, CSS, SQL, PHP, Java (Android apps), Fortran95 (nuclear physics processes forecast software), Lua to achieve side targets in the past.
 - 🌱 I currently undertake "C++ for experienced programmers" learning course at Yandex.Practicum to make a solid step from C# to a more powerful language. Additionally, C++ is used in Unreal Engine which I have some plans for. 
 - 💞️ While all my projects was a single-man hobby projects, I always ready to take an opportunity to make my hobby as my hobby-job. Call me to join your C++ developers team so we can achieve our goals together.
 - 📫 Contact me via Telegram: @LuAi_LuAi
