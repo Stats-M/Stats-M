@@ -13,6 +13,11 @@ For greetings in English please scroll down this section.
 - 💞️ From 2022 till now I work with PHP stack as backend web developer. Aside from PHP and its ecosystem, I have learned additionally several specializations: Basic Java Script, Modern HTML and CSS, Linux for Administrators, PostgreSQL for developers. The list is not over, stay tuned and check my new achievements soon!
 - 📫 Contact me via Telegram: @LuAi_LuAi
 
+=====\
+Моя активность в рабочем GitLab за период с 13.08.2023 по 12.08.2024\
+My work' GitLab activity from 13 Aug 2023 till 12 Aug 2024\
+![alt text](https://github.com/Stats-M/Stats-M/blob/b7f370abc16eaacd5d1c5e29edd7763a8e715f59/2024-08-12%20GitLab.png?raw=true)
+
 <!---
 Stats-M/Stats-M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
