@@ -14,8 +14,8 @@ For greetings in English please scroll down this section.
 - 📫 Contact me via Telegram: @LuAi_LuAi
 
 =====\
-Моя активность в рабочем GitLab за период с 13.08.2023 по 12.08.2024\
-My work' GitLab activity from 13 Aug 2023 till 12 Aug 2024\
+Моя активность в рабочем GitLab за период с 05.07.2023 по 31.12.2024 (каждый оттенок = 10 коммитов)\
+My work' GitLab activity from 13 Aug 2023 till 12 Aug 2024 (each grade of blue = 10 commits)\
 ![Git Lab activity in years 2023-2024](https://github.com/Stats-M/Stats-M/blob/main/git-lab-2023-2024.png?raw=true)
 
 <!---
